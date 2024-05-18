@@ -25,6 +25,9 @@ My goal was to recreate Jona's Node Farm
 
 ### Features
 
+- Farm products variety
+- Check out Option
+- Vegetable Specifics
 - Running Server
 - Local DB
 
