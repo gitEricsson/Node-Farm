@@ -6,6 +6,8 @@ const slugify = require('slugify');
 
 const replaceTemplate = require(`./modules/replaceTemplate`);
 
+const port = process.env.PORT || 8080;
+
 //////////////////////////////////////////
 ///////////// Files
 /*
@@ -81,6 +83,8 @@ const server = http.createServer((req, res) => {
   } else if (pathname === `/api`) {
     res.writeHead(200, { 'Content-type': 'application/json' });
     res.end(data);
+
+    // Error handling
   } else {
     res.writeHead(404, {
       'Content-type': 'text/html',
@@ -90,6 +94,6 @@ const server = http.createServer((req, res) => {
   }
 });
 
-server.listen(8000, '127.0.0.1', () => {
-  console.log('Listening to requests on port 8000');
+server.listen(port, () => {
+  console.log(`Listening to requests on port ${port}}`);
 });
