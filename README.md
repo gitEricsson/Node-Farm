@@ -1,4 +1,4 @@
-# Jonas Schmedtmann - Node Farm
+# Node Farm
 
 ## Table of contents
 
@@ -21,7 +21,7 @@ A miniature project serving as an introduction to the world of backend(Node.js)
 
 ### The Challenge
 
-My goal was to recreate Jona's Node Farm
+My goal was to recreate [Jonas's](https://github.com/jonasschmedtmann) Node Farm
 
 ### Features
 
@@ -38,7 +38,7 @@ My goal was to recreate Jona's Node Farm
 ### Links
 
 - Code URL: [Github Repo here](https://github.com/gitEricsson/Node-Farm)
-- Live Site URL: [Live site here](https://ericsson-node-farm.netlify.app/)
+- Live Site URL: [Live site here](https://node-farm-h043.onrender.com/)
 
 ## My process
 
