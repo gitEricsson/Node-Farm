@@ -7,6 +7,7 @@
   - [The Challenge](#the-challenge)
   - [Features](#features)
   - [Updates](#updates)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -34,6 +35,13 @@ My goal was to recreate [Jonas's](https://github.com/jonasschmedtmann) Node Farm
 ### Updates
 
 - Responsive Web Design across all Devices
+
+### Screenshots
+
+![screenshot1](./screenshots/Screenshot1.jpeg)
+![screenshot2](./screenshots/Screenshot2.jpeg)
+![screenshot3](./screenshots/Screenshot3.jpeg)
+![screenshot4](./screenshots/Screenshot4.jpeg)
 
 ### Links
 
